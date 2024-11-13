@@ -4,14 +4,14 @@
     "DEVICE": "akita",
     "MANUFACTURER": "Google",
     "BRAND": "google",
-    "MODEL": "Pixel 8A",
-    "FINGERPRINT": "google/akita_beta/akita:15/AP41.240925.009/12534705:user/release-keys",
-    "SECURITY_PATCH": "2024-10-05",
-    "DEVICE_INITIAL_SDK_INT": "",
-    "ID": "",
-    "TYPE": "",
-    "TAGS": "",
-    "INCREMENTAL": "",
-    "RELEASE": ""
+    "MODEL": "Pixel 8a",
+    "FINGERPRINT": "google/akita_beta/akita:15/BP11.241025.006/12620009:user/release-keys",
+    "SECURITY_PATCH": "2024-11-05",
+    "DEVICE_INITIAL_SDK_INT": "32",
+    "ID": "BP11.241025.006",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "INCREMENTAL": "12620009",
+    "RELEASE": "15"
   }
 ]
