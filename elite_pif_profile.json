@@ -3,15 +3,15 @@
     "PRODUCT": "caiman_beta",
     "DEVICE": "caiman",
     "MANUFACTURER": "Google",
-    "BRAND": "",
+    "BRAND": "google",
     "MODEL": "Pixel 9 Pro",
-    "FINGERPRINT": "google/caiman_beta/caiman:16/CP11.251114.007/14621658:user/release-keys",
-    "SECURITY_PATCH": "2025-12-05",
+    "FINGERPRINT": "google/caiman_beta/caiman:16/CP11.251209.007.A1/14691868:user/release-keys",
+    "SECURITY_PATCH": "2026-01-05",
     "DEVICE_INITIAL_SDK_INT": "32",
     "ID": "",
-    "TYPE": "",
-    "TAGS": "",
-    "INCREMENTAL": "",
-    "RELEASE": ""
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "INCREMENTAL": "14691868",
+    "RELEASE": "16"
   }
 ]
